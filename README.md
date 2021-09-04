@@ -24,7 +24,7 @@ I hope you enjoy it. In this challenge you will need to create an OpenAPI Spec, 
 
 ### Slides
 
-Check the latest [Slides](https://docs.google.com/presentation/d/1nizTZlzuO7AqQkEHr1OxDoIW2Wew7Gxe2a93sPqfiQE/edit?usp=sharing) for delivering this workshop.
+Check the latest [Slides](https://docs.google.com/presentation/d/1o-hT8gVyKrgQbIltY0lJil0oOXKLn07k00UddRMVOfE/edit?usp=sharing) for delivering this workshop.
 
 ### Support & Ownership
 
