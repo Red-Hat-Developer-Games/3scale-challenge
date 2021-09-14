@@ -19,8 +19,21 @@ I hope you enjoy it. In this challenge you will need to create an OpenAPI Spec, 
 * Knowledge of the current version of the OpenAPI specification: [OpenAPI Specification 3.0.1](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md)
 * Internet access with no blacklist filtering on:
   * *.open.redhat.com
-* Able to install 3scale-toolbox locally
-* OC Cli (4.6)
+* Able to install 3scale-toolbox locally **
+* OC Cli (4.6) (Optional) **
+
+** NOTE:
+If you don't have rights to install OC Cli or 3scale-toolbox cli in your computer. We have provided a virtual terminal with the required tools to be able to accomplish the exercises.
+
+To initialise and open it:
+
+1. Click **>_** Icon located at top right corner.
+   ![Terminal 1](images/terminal1.png)
+2. Then select your user namespace.
+   ![Terminal 2](images/terminal2.png)
+3. Click **Create** button.
+   ![Terminal 3](images/terminal3.png)
+4. You will have the terminal ready with the 3scale command and oc cli already connected with your credentials.
 
 ### Slides
 
