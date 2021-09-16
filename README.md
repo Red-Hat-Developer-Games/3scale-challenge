@@ -10,6 +10,7 @@ I hope you enjoy it. In this challenge you will need to create an OpenAPI Spec, 
 
 * [Red Hat OpenShift Container Platform](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale)
+* [Red Hat Single Sign On](https://access.redhat.com/products/red-hat-single-sign-on)
 * [Apicurio](https://www.apicur.io/)
 * [3scale-toolbox](https://github.com/3scale/3scale_toolbox/)
 * [Jenkins](https://www.jenkins.io/)
@@ -41,6 +42,6 @@ Check the latest [Slides](https://docs.google.com/presentation/d/1o-hT8gVyKrgQbI
 
 ### Support & Ownership
 
-#### Workshop with 3scale 3.9 and CICD
+#### Challenge with 3scale 3.9 and CICD
 
 Feel free to ask [Mikel Sanchez](mailto:misanche@redhat.com) if you need some support when there are any questions left or if you need some support.
