@@ -40,6 +40,10 @@ To initialise and open it:
 
 Check the latest [Slides](https://docs.google.com/presentation/d/1CyiZRPCb6Bx5UzVF0polnQjQYCGwAS2W/edit?usp=sharing&ouid=109157093707311280335&rtpof=true&sd=true) for delivering this workshop.
 
+### Delivery
+
+Provide the Application created GitHub Repositoy + Jenkinsfile + OpenAPI spec.
+
 ### Support & Ownership
 
 #### Challenge with 3scale 3.9 and CICD
