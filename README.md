@@ -38,7 +38,7 @@ To initialise and open it:
 
 ### Slides
 
-Check the latest [Slides](https://docs.google.com/presentation/d/1o-hT8gVyKrgQbIltY0lJil0oOXKLn07k00UddRMVOfE/edit?usp=sharing) for delivering this workshop.
+Check the latest [Slides](https://docs.google.com/presentation/d/1CyiZRPCb6Bx5UzVF0polnQjQYCGwAS2W/edit?usp=sharing&ouid=109157093707311280335&rtpof=true&sd=true) for delivering this workshop.
 
 ### Support & Ownership
 
